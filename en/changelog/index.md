@@ -30,6 +30,12 @@ All the latest updates, improvements, and fixes to Express
 ## Express v5
 {: id="5.x"} 
 
+### 5.1.0 - Release date: todo
+
+The 5.1.0 minor release includes some new features and improvements:
+
+* Support for sending responses as Uint8Array
+
 ### 5.0.1 - Release date: 2024-10-08
 {: id="5.0.1"}
 
